@@ -1,0 +1,38 @@
+23/9/2018 | 22:24:6 | Client started
+23/9/2018 | 22:24:6 | client as server : started
+23/9/2018 | 22:24:6 | client as server : success in calling socket
+23/9/2018 | 22:24:6 | client as server : success in calling setsockopt
+23/9/2018 | 22:24:6 | client as server : listening on port : 8090
+23/9/2018 | 22:24:6 | client as server : success in calling bind
+23/9/2018 | 22:24:6 | client as server : success in calling listen
+23/9/2018 | 22:24:45 | inside process_request
+23/9/2018 | 22:24:45 | get : Downloading
+23/9/2018 | 22:24:45 | get : create mtorrent object
+23/9/2018 | 22:24:45 | get : object created
+23/9/2018 | 22:24:45 | inside establish_connection_with_tracker
+23/9/2018 | 22:24:45 | socket called successfully
+23/9/2018 | 22:24:45 | inet_pton called successfully
+23/9/2018 | 22:24:45 | connect called successfully
+23/9/2018 | 22:24:45 | get : fetching details
+23/9/2018 | 22:24:45 | get : info_to_share : get dir1/3.png 
+23/9/2018 | 22:24:45 | get : details sent to tracker 
+23/9/2018 | 22:24:45 | get : dir1/3.png 38df7dcb76d84f045853 127.0.0.1:8095 
+23/9/2018 | 22:24:45 | get : details recieved from tracker 
+23/9/2018 | 22:24:45 | get : seeders recieved
+23/9/2018 | 22:24:45 | get : start connecting with peers
+23/9/2018 | 22:24:45 | inside establish_connection_with_peers
+23/9/2018 | 22:24:45 | size of seeders : 2
+23/9/2018 | 22:24:45 | seeder : dir1/3.png -- 38df7dcb76d84f045853 -- 127.0.0.1:8095
+23/9/2018 | 22:24:45 |  seeder ip : 127.0.0.1 seeder port : 8095
+23/9/2018 | 22:24:45 | socket called successfully
+23/9/2018 | 22:24:45 | inet_pton called successfully
+23/9/2018 | 22:24:45 | connect called successfully
+23/9/2018 | 22:24:45 | 1. sending : send dir1/3.png
+23/9/2018 | 22:24:45 | 2. recieved : okay
+23/9/2018 | 22:24:45 | 3. sending : 0
+23/9/2018 | 22:24:45 | 4. recieved : 921
+23/9/2018 | 22:24:45 | 5. sending : okay
+23/9/2018 | 22:24:45 | 6. recieved : ‰PNG
+
+
+23/9/2018 | 22:24:45 | get : closing connection with peers

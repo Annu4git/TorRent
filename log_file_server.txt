@@ -1,0 +1,20 @@
+23/9/2018 | 22:23:48 | tracker : success in calling socket
+23/9/2018 | 22:23:48 | tracker : success in calling setsockopt
+23/9/2018 | 22:23:48 | tracker : success in calling bind
+23/9/2018 | 22:23:48 | success in calling listen
+23/9/2018 | 22:24:30 | creating thread
+23/9/2018 | 22:24:30 | New client joined : 5
+23/9/2018 | 22:24:30 | buffer : share dir1/3.png 38df7dcb76d84f045853 127.0.0.1:8095
+23/9/2018 | 22:24:30 | command : share
+23/9/2018 | 22:24:30 | share command found
+23/9/2018 | 22:24:30 | writing in seeder_file : seeders.txt
+23/9/2018 | 22:24:30 | dir1/3.png 
+23/9/2018 | 22:24:30 | 38df7dcb76d84f045853 
+23/9/2018 | 22:24:30 | 127.0.0.1:8095 
+23/9/2018 | 22:24:30 | Connection closing : 5
+23/9/2018 | 22:24:45 | creating thread
+23/9/2018 | 22:24:45 | New client joined : 6
+23/9/2018 | 22:24:45 | buffer : get dir1/3.png 
+23/9/2018 | 22:24:45 | command : get
+23/9/2018 | 22:24:45 | get command found
+23/9/2018 | 22:24:45 | Connection closing : 6
