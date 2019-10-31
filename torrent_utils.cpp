@@ -366,3 +366,6 @@ mtorrent_file create_mtorrent_file(string original_file, string mt_file_name, mt
 
 	return mt_file;
 }
+
+
+// Updated
